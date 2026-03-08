@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+}
+
+.heading{
+    font-size: 10rem;
+    font-weight: 900;
+    background: url(https://media.istockphoto.com/id/1688473816/photo/waves-in-atlantic-ocean-porto-moniz-madeira-island-portugal.jpg?s=2048x2048&w=is&k=20&c=HBahUY-qO2VZMVU3bmHk3Rwqg3Fr4P4d0idTQ62t6Hw=);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
